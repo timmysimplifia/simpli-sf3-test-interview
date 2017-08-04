@@ -10,8 +10,11 @@ This repository is for testing SF3 skills of candidates who apply to a job at Si
 
 ### How do I get set up? ###
 
-Clone this repository  
-Be sure to have PHP7 installed on your machine  
+Be sure to have PHP7 installed on your machine 
+Clone this repository 
+cd simpli-sf3-test-interview
+composer install
+To run server : php bin/console server:run
 Create a new branch named *interview/yourfirstname-yourlastname* from master. Never commit or push into master!  
 
 ### Mission ###
