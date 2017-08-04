@@ -17,7 +17,7 @@ Create a new branch named interview/yourfirstname-yourlastname from master. Neve
 ### Mission ###
 
 Your mission is to create a page whose link is *yourdomain/my-work*
-On this page, you will show a title and a table (see mockup.png) with the correct CSS.
+On this page, you will show a title and a table (see https://github.com/simplifia/simpli-sf3-test-interview/blob/master/simpli-sf3-test-interview-mockup.PNG) with the correct CSS.
 The input data are available in *app/config/config.yml* in *inputData* parameter.
 The table data are computing by a *service* (so not directly by the controller)
 
