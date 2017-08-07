@@ -28,5 +28,5 @@ The inputData are computing by a *service* (so not directly by the controller). 
 
 ### Contribution guidelines ###
 When you start working, please push an initial commit.  
-After that, please push at least one commit every 30 minutes.
+After that, please push at least one commit every 30 minutes.  
 When you are done, please create a Pull Request
